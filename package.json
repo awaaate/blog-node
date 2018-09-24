@@ -1,0 +1,11 @@
+{
+  "name": "lokoblog",
+  "version": "1.0.0",
+  "description": "blog loko",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Tomas",
+  "license": "ISC"
+}
